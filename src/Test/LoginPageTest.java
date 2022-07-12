@@ -30,5 +30,9 @@ public class LoginPageTest {
 		loginPageTest.loginTest();
 		loginPageTest.loginWithOnlyUserTest();
 	}
+	
+	public void trial() {
+		
+	}
 
 }
