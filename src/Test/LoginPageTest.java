@@ -31,8 +31,6 @@ public class LoginPageTest {
 		loginPageTest.loginWithOnlyUserTest();
 	}
 	
-	public void trial() {
-		
-	}
+	
 
 }
